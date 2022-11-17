@@ -22,7 +22,6 @@ I'm **Branko** and I have 26 years old. I'm a **Frontend and Web 3 Developer** b
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
 <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"></code>
-<code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-cs6.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 
 </p>
@@ -33,7 +32,6 @@ I'm **Branko** and I have 26 years old. I'm a **Frontend and Web 3 Developer** b
 
 - Master React & React-Native skills
 - Master MERN stack
-- Rebuild my Youtube channel
 - Optimised Coding
 
 ---
@@ -41,15 +39,6 @@ I'm **Branko** and I have 26 years old. I'm a **Frontend and Web 3 Developer** b
 #### ✅ RECENTLY COMPLETED PROJECTS:
 
 <p>Updating soon..</p>
-<!-- <p style="display:flex">
-    <a href="https://github.com/phanison898/linked-in-clone">
-        <img width=240 src="https://media.giphy.com/media/PTQn2S6X7XtsPD6j5j/giphy.gif" />
-    </a>
-    <a href="https://github.com/phanison898/facebook-clone">
-        <img width=240 src="https://media.giphy.com/media/ZBrjiNNMqqoiZFGTyV/giphy.gif" />
-    </a>
-
-</p> -->
 
 ---
 
@@ -61,9 +50,9 @@ I'm **Branko** and I have 26 years old. I'm a **Frontend and Web 3 Developer** b
 
 #### 📈 MY GITHUB STATS
 
-<img style="border-radius:10px" src="https://github-readme-stats.vercel.app/api?username=paritomarrr&show_icons=true&theme=radical" />
+<img style="border-radius:10px" src="https://github-readme-stats.vercel.app/api?username=branko96&show_icons=true&theme=radical" />
 
-<img style="border-radius:10px" src="https://github-readme-streak-stats.herokuapp.com/?user=paritomarrr&show_icons=true&theme=radical" />
+<img style="border-radius:10px" src="https://github-readme-streak-stats.herokuapp.com/?user=branko96&show_icons=true&theme=radical" />
 
 <details>
 <summary>📌 View more stats ...</summary>
